@@ -1,1 +1,1 @@
-## Harnessing Vision AI for Automated Classification of Intracranial Aneurysms
+## Automated Intracranial Aneurysm Classification Using ML
